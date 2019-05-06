@@ -9,6 +9,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Michał Łaszczewski",
+  "author": "Michał Łaszczewski <michal@emikse.com>",
   "license": "BSD-3-Clause"
 }
